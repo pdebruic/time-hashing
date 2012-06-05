@@ -1,0 +1,19 @@
+{
+	"category" : "TimeHashing",
+	"classinstvars" : [
+		"offsets" ],
+	"classvars" : [
+		"AllInstancesDataSet",
+		"RandomDataSet",
+		"SequentialDataSet" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"offsets",
+		"times",
+		"arrayToTest",
+		"hashDictionary" ],
+	"name" : "DateAndTimeHashing",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
